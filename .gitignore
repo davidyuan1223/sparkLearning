@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/network-common/target/
+/common/tags/target/
+/launcher/target/

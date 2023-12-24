@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common/network-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-shuffle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/network-shuffle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/tags/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/unsafe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/unsafe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/launcher/src/main/java" charset="UTF-8" />
+  </component>
+</project>
